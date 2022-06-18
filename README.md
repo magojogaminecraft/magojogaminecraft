@@ -1,5 +1,5 @@
 # MAGUEIRA
-- 👋 Meu email de contato é [email](joaosilvapalisser@gmail.com)
+- 👋 Meu email de contato é [email](joao.palisser.silva@escola.pr.gov.br)
 - 👋 Salve sou @magojogaminecraft
 - 👀 Eu estou enteressado em aprender a progamar.
 - 🌱 Estou aprendendo a programar recentemente javaScript e Scratch
